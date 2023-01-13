@@ -165,3 +165,41 @@ p {
 	display: inline-block;
 	vertical-align: bottom;
 }
+.footer-div {
+	background-color: blue;
+	display: inline-block;
+	color: #fff;
+	width: 100vh;
+	min-width: 100%;
+}
+.safe-right {
+	display: inline-block;
+	vertical-align: top;
+	font-size: 16px;
+	margin: 113px 896px 40px 240px;
+}
+.made-by {
+	display: inline-block;
+	vertical-align: top;
+	font-size: 13px;
+	margin: 114px 15px 42px 0;
+}
+.heart {
+	display: inline-block;
+	vertical-align: top;
+	margin: 109px 10px 37px 0;
+}
+.with {
+	display: inline-block;
+	vertical-align: top;
+	font-size: 13px;
+	margin: 114px 30px 42px 0;
+}
+.smartweb {
+	display: inline-block;
+	vertical-align: top;
+	margin: 105px 0 32px 0 ;
+}
+.div-in-footer {
+	min-width: 1700px;
+}
